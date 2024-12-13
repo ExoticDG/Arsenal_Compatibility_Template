@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "io/github/exoticdg/arsenal_compatibility_template/mixin/TitleScreenMixin": {
+      "init": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/exoticdg/arsenal_compatibility_template/mixin/TitleScreenMixin": {
+        "init": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}

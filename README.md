@@ -1,2 +1,2 @@
-# arsenal_compatibility_template
- 
+# Arsenal Compatibility Template
+
