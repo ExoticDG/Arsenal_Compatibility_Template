@@ -1,0 +1,10 @@
+{
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_trident": "TestTrident",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_shield": "TestShield",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_ranged_weapon": "TestRangedWeapon",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_weapon": "TestWeapon",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_trident_32x32": "TestTrident32x32",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_shield_32x32": "TestShield32x32",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_ranged_weapon_32x32": "TestRangedWeapon32x32",
+  "item.arsenal_compatibility_template.arsenal_compatibility_template_test_weapon_32x32": "TestWeapon32x32"
+}
