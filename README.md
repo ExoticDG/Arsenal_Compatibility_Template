@@ -1,6 +1,7 @@
 # Arsenal Compatibility Template
 A mod meant for testing to see if something is compatible with doctor4t (RAT)'s "Arsenal" mod.
 
+![Arsenal Compatibility Tempalte logo](src/main/resources/assets/arsenal_compatibility_template/icon.png)
 
 ## Required Notices
 
