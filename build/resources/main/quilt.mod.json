@@ -10,7 +10,10 @@
             "contributors": {
                 "Exotic Darkness Gaming": "Owner, Developer"
             },
-            "contact": {},
+            "contact": {
+							"Website": "https://exoticdg.github.io/Arsenal_Compatibility_Template/"
+
+						},
             "icon": "/assets/arsenal_compatibility_template/icon.png",
             "license": "CC-BY-4.0"
         },
@@ -21,19 +24,19 @@
         "depends": [
             {
                 "id": "quilt_loader",
-                "versions": ">=0.19.1"
+                "versions": ">=0.27.1"
             },
             {
                 "id": "quilted_fabric_api",
                 "versions": ">=7.0.2"
             },
 				  	{
-						    "id": "minecraft",
-						    "versions": ">=1.20"
+						    "id": "arsenal",
+						    "versions": ">=0.1.5-1.20.1"
 				  	},
 				  	{
                 "id": "minecraft",
-                "versions": ">=1.20"
+                "versions": ">=1.20.1"
             }
         ]
     },

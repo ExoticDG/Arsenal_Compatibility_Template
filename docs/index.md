@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 ![Arsenal Compatibility Tempalte logo](https://github.com/ExoticDG/Arsenal_Compatibility_Template/blob/main/src/main/resources/assets/arsenal_compatibility_template/icon.png)
 
+=======
+>>>>>>> Stashed changes
 # Welcome to the offitial website for Arsenal Compatibility Template
 
 > [!IMPORTANT]

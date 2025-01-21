@@ -25,14 +25,14 @@ repositories {
 	flatDir {
 		dirs "/dependencies/"
 	}
-//	mavenCentral()
-//	maven {
-//		url = uri("https://modrinth.com/mod/arsenal")
-//	}
-//	mavenLocal()
-//	flatDir {
-//		dirs "libs"
-//	}
+	mavenCentral()
+	maven {
+		url = uri("https://modrinth.com/mod/arsenal")
+	}
+	mavenLocal()
+	flatDir {
+		dirs "libs"
+	}
 }
 
 loom {
