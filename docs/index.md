@@ -1,3 +1,5 @@
+![Arsenal Compatibility Tempalte logo](src/main/resources/assets/arsenal_compatibility_template/icon.png)
+
 # Welcome to the offitial website for Arsenal Compatibility Template
 
 > [!IMPORTANT]
