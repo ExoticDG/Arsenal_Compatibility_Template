@@ -1,4 +1,4 @@
-![Arsenal Compatibility Tempalte logo]([src/main/resources/assets/arsenal_compatibility_template/icon.png](https://github.com/ExoticDG/Arsenal_Compatibility_Template/blob/7cd379fc7e137f6b9a319d6621288068db857194/src/main/resources/assets/arsenal_compatibility_template/icon.png))
+![Arsenal Compatibility Tempalte logo](https://github.com/ExoticDG/Arsenal_Compatibility_Template/blob/main/src/main/resources/assets/arsenal_compatibility_template/icon.png)
 
 # Welcome to the offitial website for Arsenal Compatibility Template
 
