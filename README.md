@@ -13,4 +13,4 @@ A mod meant for testing to see if something is compatible with doctor4t (RAT)'s 
 > [!IMPORTANT]
 > Required Notice:
 > 
-> Template ["Arsenal Compatibility Template"](https://github.com/ExoticDG/Arsenal_Compatibility_Template) was used in the makeing of this mod. The template was created by [ExoticDarknessGaming](https://www.youtube.com/@ExoticDarknessGaming). I <the dev> of this mod claim no rights to the content taken from the template.
+> Template ["Arsenal Compatibility Template"](https://github.com/ExoticDG/Arsenal_Compatibility_Template) was used in the makeing of this mod. The template was created by [ExoticDarknessGaming](https://www.youtube.com/@ExoticDarknessGaming). I (the developer) and any team associated with this mod claim no rights to the content taken from the template.
